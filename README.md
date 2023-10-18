@@ -17,7 +17,7 @@ Skills: C / SQL / python / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayoub22222222&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub](https://raw.github.com/ayoub22222222/github-contribution-color-graph/master/docs/contributions-github-default.png)
+![[GitHub](https://github.com/ayoub22222222)](https://raw.github.com/ayoub22222222/github-contribution-color-graph/master/docs/contributions-github-default.png)
 
 
 
