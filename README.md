@@ -17,7 +17,7 @@ Skills: C / SQL / python / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayoub22222222&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayoub22222222&alx-low_level_programming=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayoub22222222&repo=alx-low_level_programming)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
