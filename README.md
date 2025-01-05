@@ -25,7 +25,8 @@ I'm Ayoub Mohammed, and I hold a university degree in economics. My journey into
 [![committers.top badge](https://user-badge.committers.top/morocco_public/ayoub22222222.svg)](https://user-badge.committers.top/morocco_public/ayoub22222222)
 ## 🏆 GitHub Committers Rank
 
-[![committers.top badge](https://org-badge.committers.top/morocco_public/MOHAMMED AYOUB ESSBAI.svg)](https://org-badge.committers.top/morocco_public/MOHAMMED AYOUB ESSBAI)
+![committers.top badge](https://org-badge.committers.top/ORGNAME/ayoub22222222.svg)
+
 
 
 
