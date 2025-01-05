@@ -21,7 +21,8 @@ I'm Ayoub Mohammed, and I hold a university degree in economics. My journey into
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayoub22222222&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![committers.top badge](https://org-badge.committers.top/morocco_public/ayoub22222222.svg)](https://org-badge.committers.top/morocco_public/ayoub22222222)
+
+[![committers.top badge](https://user-badge.committers.top/morocco_public/ayoub22222222.svg)](https://user-badge.committers.top/morocco_public/ayoub22222222)
 
 
 
