@@ -21,7 +21,7 @@ I'm Ayoub Mohammed, and I hold a university degree in economics. My journey into
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayoub22222222&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=your_ayoub22222222.Data_Cleaning_Project)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=your_ayoub22222222.Sql-Sales-Analysis)
 
 
 ## 🏆 GitHub Committers Rank
