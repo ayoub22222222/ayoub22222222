@@ -7,7 +7,7 @@ I'm Ayoub Mohammed, and I hold a university degree in economics. My journey into
 
 ## 🛠️ Languages and Tools
 
-<p align="left">
+<p>
 
 <a href="https://getbootstrap.com" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
